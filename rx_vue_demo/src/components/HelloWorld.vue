@@ -1,5 +1,6 @@
 <template>
     <div class="hello">
+        <rx-slot-test></rx-slot-test>
     </div>
 </template>
 
